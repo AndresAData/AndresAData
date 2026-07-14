@@ -1,16 +1,25 @@
-## Hi there 👋
+# ¡Hola! Soy Andrés Peña 👋
 
-<!--
-**AndresAData/AndresAData** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador Python en crecimiento.
 
-Here are some ideas to get you started:
+🚀 Actualmente aprendiendo:
+- Python
+- Django
+- FastAPI
+- SQL
+- Análisis de Datos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Objetivos:
+- Construir proyectos reales.
+- Crear la marca Hosaik.
+- Conseguir un trabajo como desarrollador.
+- Seguir aprendiendo todos los días.
+
+## Tecnologías
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+> "Pequeños avances todos los días terminan construyendo grandes resultados."
